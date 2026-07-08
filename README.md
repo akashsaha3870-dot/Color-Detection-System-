@@ -1,1 +1,1 @@
-# Color-Detection-System-
+A system which uses masks detecting RGB colors
